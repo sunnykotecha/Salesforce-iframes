@@ -3,7 +3,7 @@
 
 /**
  * Plugin Name:       Salesforce iframes
- * Description:       Allows Salesforce forms to be added as iframes to a WordPress page or post
+ * Description:       Allows Salesforce forms to be added as iframes to a WordPress page or post. 
  * Version:           1.0.0
  * Author:            sunny
  */
